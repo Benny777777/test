@@ -1,2 +1,2 @@
-let a = 'A-';
+let a = 'Ab';
 console.log(a);
